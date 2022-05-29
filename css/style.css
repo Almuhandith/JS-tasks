@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+
+body {
+    background: url(../img/What\ a\ beautiful\ sunset_\ -\ Funny.jpg) no-repeat;
+    background-size: cover;
+}
+
+.card {
+    border-radius: 10px;
+    margin: 15% 25%;
+    background-color: coral;
+    width: 50%;
+}
+
+.card .team {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .tm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: teal;
+}
+
+.card .members {
+    padding: 0px 70px;
+    color: teal;
+}
+
+.card .members ul {
+    list-style: disc;
+    font-weight: 500; 
+}
+
+.card .members ul li {
+    padding: 10px 0;
+}
