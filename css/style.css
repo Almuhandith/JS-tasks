@@ -61,6 +61,7 @@ body {
     }
 
     .card {
-        margin: 30% 30%;
+        margin: 30% 15%;
+        width: 70%;
     }
 }
