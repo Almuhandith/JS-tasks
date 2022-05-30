@@ -47,3 +47,20 @@ body {
 .card .members ul li {
     padding: 10px 0;
 }
+
+@media (max-width: 426px) {
+    .card .members {
+        padding: 0px 22px;
+    }
+    .card .team {
+        font-size: 20px;
+    }
+
+    .card .tm {
+        font-size: 18px;
+    }
+
+    .card {
+        margin: 30% 30%;
+    }
+}
